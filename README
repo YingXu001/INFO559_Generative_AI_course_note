@@ -1,0 +1,29 @@
+# Generative AI Course Practice Code
+
+This repository contains my personal practice code and notes based on the course materials from:
+
+**T81-559: Applications of Generative Artificial Intelligence**  
+Instructor: Jeff Heaton  
+Original course repository: https://github.com/jeffheaton/app_generative_ai
+
+## Purpose
+
+The goal of this repository is to organize and run course-related code independently.  
+The materials focus on practical applications of Generative AI, including OpenAI API usage, LangChain, prompt engineering, RAG, agents, multimodal models, image generation, fine-tuning, and Streamlit applications.
+
+## Topics Covered
+
+- Introduction to Generative AI
+- OpenAI API usage
+- Prompt engineering
+- LangChain basics
+- Chat memory and persistence
+- Output parsers and structured responses
+- Retrieval-Augmented Generation (RAG)
+- Embeddings and vector databases
+- Agents and tools
+- Kaggle and small LLM workflows
+- Image generation and multimodal AI
+- Streamlit-based AI applications
+- Fine-tuning and evaluation
+- Speech-to-text and text-to-speech applications
